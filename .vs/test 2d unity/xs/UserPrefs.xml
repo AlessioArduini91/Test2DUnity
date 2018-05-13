@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{132BFBFD-3E3E-2EBB-3BF4-6E60CFFC0961}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Camera.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Control.cs" Line="28" Column="67" />
+      <File FileName="Assets/Scripts/Camera.cs" Line="17" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
